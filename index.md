@@ -24,13 +24,13 @@ cvignola@asu.edu
 **Figura 7.** _Tavola di Studio 7_
 
 ## Catasto
-[Catasto](/0001.jpg)
+![Catasto](/0001.jpg)
 **Figura 8.** _Catasto 1_
-[Catasto](/0002.jpg)
+![Catasto](/0002.jpg)
 **Figura 9.** _Catasto 2_
 
 ## Parere
-[Parere](/parere.jpg)
+![Parere](/parere.jpg)
 
 
 
