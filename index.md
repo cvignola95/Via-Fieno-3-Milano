@@ -8,8 +8,13 @@ cvignola@asu.edu
 
 ## Introduction
 
-
-
+![0](/T_00.jpg)
+![1](/T_01.jpg)
+![2](/T_02.jpg)
+![3](/T_03.jpg)
+![4](/T_04.jpg)
+![5](/T_05.jpg)
+![6](/T_06.jpg)
 
 
 **Bold Text**
@@ -24,7 +29,7 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
+
 
 1. Numbered Point 1
 1. Numbered Point 2
