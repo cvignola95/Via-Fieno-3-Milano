@@ -31,9 +31,12 @@ cvignola@asu.edu
 
 ## Parere
 ![Parere](/parere.jpg)
+**Figura 10.** _Risposta Comune di Milano_
 
 
-
+## Ristrutturazione Opzione 1
+![Proto](/Proto1.jpg)
+**Figura 11.** _Vista Top_
 
 
 
