@@ -23,7 +23,11 @@ cvignola@asu.edu
 ![6](/T_06.jpg)
 **Figura 7.** _Tavola di Studio 7_
 
+## Catasto
+![Catasto](/catasto FIENO.PDF)
 
+## Parere
+![Parere](/PARERE.PDF)
 
 
 
