@@ -60,7 +60,12 @@ claudiofmvignola@gmail.com
 ![Proto](/Proto3_1.jpg)
 **Figura 20.** _Vista Interno con Persona_
 ![Proto](/Proto4.jpg)
-**Figura 121.** _Vista Muri_
+**Figura 21.** _Vista Muri_
+
+## Materiali
+
+[Cucina - Fuochi](https://www.google.com/maps/place/Via+Fieno,+3,+20123+Milano+MI,+Italy/@45.4598077,9.1848355,17z/data=!3m1!4b1!4m5!3m4!1s0x4786c6aa3bcde1b9:0xaaa0deb4782300b2!8m2!3d45.459804!4d9.1870295)
+[Cucina - Divano](https://www.bludot.com/the-diplomat-sleeper-sofa.html)
 
 
 
