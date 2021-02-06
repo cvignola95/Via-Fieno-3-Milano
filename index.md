@@ -37,6 +37,14 @@ claudiofmvignola@gmail.com
 ## Ristrutturazione Opzione 1
 ![Proto](/Proto1.jpg)
 **Figura 11.** _Vista Top_
+![Proto](/Proto2.jpg)
+**Figura 12.** _Vista Isometrica_
+![Proto](/Proto3.jpg)
+**Figura 13.** _Vista Interni Liberi_
+![Proto](/Proto3_1.jpg)
+**Figura 14.** _Vista Interno con Persona_
+![Proto](/Proto4.jpg)
+**Figura 15.** _Vista Muri_
 
 
 
