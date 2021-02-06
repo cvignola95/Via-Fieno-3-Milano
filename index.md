@@ -22,7 +22,7 @@ _Italic Text_
 * Bullet Point 2
 * Bullet Point 3
 
-[image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+[![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)]
 
 [link to background](/background)
 
