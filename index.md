@@ -63,7 +63,7 @@ claudiofmvignola@gmail.com
 **Figura 21.** _Vista Muri_
 
 ## Ristrutturazione Opzione 1
-![Modello](/Modello 2.1.jpg)
+![Modello](/Modello2_1.jpg)
 **Figura 22.** _Vista Mappa Isometrica_
 
 ## Materiali
