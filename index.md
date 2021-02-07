@@ -62,6 +62,10 @@ claudiofmvignola@gmail.com
 ![Proto](/Proto4.jpg)
 **Figura 21.** _Vista Muri_
 
+## Ristrutturazione Opzione 1
+![Modello](/Modello 2.1.jpg)
+**Figura 22.** _Vista Mappa Isometrica_
+
 ## Materiali
 
 [Cucina - Fuochi](https://www.google.com/maps/place/Via+Fieno,+3,+20123+Milano+MI,+Italy/@45.4598077,9.1848355,17z/data=!3m1!4b1!4m5!3m4!1s0x4786c6aa3bcde1b9:0xaaa0deb4782300b2!8m2!3d45.459804!4d9.1870295)
