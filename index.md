@@ -62,7 +62,7 @@ claudiofmvignola@gmail.com
 ![Proto](/Proto4.jpg)
 **Figura 21.** _Vista Muri_
 
-## Ristrutturazione Opzione 1
+## Ristrutturazione Opzione 2
 ![Modello](/Modello2_1.jpg)
 **Figura 22.** _Vista Mappa Isometrica_
 
