@@ -49,6 +49,9 @@ claudiofmvignola@gmail.com
 ![Parere](/parere.jpg)
 **Figura 16.** _Risposta Comune di Milano_
 
+## Visuale Laterale
+
+![Proto](/Lateral.jpg)
 
 ## Ristrutturazione Opzione 1
 ![Proto](/Proto1.jpg)
